@@ -1,8 +1,9 @@
 ### Greetings 🖖
 
-___
+---
 
-[adiadd.xyz](https://adiadd.xyz/)
+--> [adiadd.xyz](https://adiadd.xyz/ "Aditya's website")
+
 
 <!--
 **adiadd/adiadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
